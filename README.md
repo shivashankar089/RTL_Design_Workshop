@@ -1,2 +1,2 @@
-# RTL_DESIGN_WORKSHOP
+# RTL_Design_Workshop
 This is an extensive repository regarding RTL design
