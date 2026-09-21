@@ -14,10 +14,6 @@ This repository documents an RTL design workshop that progresses from basic comb
 - [Day 6](DAY_6/README.md) - Pre-synthesis and post-synthesis design comparisons.
 - [Day 7](DAY_7/README.md) - Sequence-detector simulation, output behavior, RTL waveforms, and synthesized schematic views.
 
-### Modules
-
-- [Module 1](MODULE_1/README.md) - PicoRV32A RTL-to-synthesis flow, Tcl configuration, design inspection, synthesis statistics, SKY130 setup, netlist generation, and OpenSTA timing reports.
-- [Module 2](MODULE_2/README.md) - Physical-design preparation, including configuration, design statistics, floorplanning, IO placement, standard-cell placement, Magic layout views, and floorplan review.
 
 ## Learning Progression
 
@@ -26,4 +22,3 @@ This repository documents an RTL design workshop that progresses from basic comb
 3. Identify incomplete assignments and common simulation or synthesis issues.
 4. Compare RTL, synthesized netlists, waveforms, and schematics.
 5. Run synthesis and review implementation statistics and timing.
-6. Continue from synthesis into floorplanning, placement, and layout inspection.
